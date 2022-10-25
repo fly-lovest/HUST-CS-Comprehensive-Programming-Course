@@ -1,0 +1,17 @@
+void func(){
+int a;int b; int c;
+a=a+(b-c)*(b%f)/c;
+if(a>b) 
+a=1;
+else {
+b=1;
+}
+for(a=0;a<1;a=a+1){
+continue;
+}
+while(b){
+if(a==b) {
+break;
+}
+}
+}

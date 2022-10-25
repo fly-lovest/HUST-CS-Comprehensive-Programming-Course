@@ -1,0 +1,6 @@
+int func (int a){
+for(a=1;a<10;a=a+1){
+a=a*((2+a)*a;
+}
+return a;
+}

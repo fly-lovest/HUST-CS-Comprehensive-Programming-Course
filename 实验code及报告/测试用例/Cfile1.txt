@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include "stdlib.h"
+#define OK 1
+int b[30];
+double c;
+char string_S1;	//注释
+/*注释*/
+double func(int a, int b)
+{
+char c;
+int group[30];
+a = OK; a=0xab4;
+a = 5ul; a = 067u;
+b = 1.f; b = .2e2L;
+c = 'a';
+c = '\t';
+c = '\'';
+c = '\\';
+return b;
+}
+float i;

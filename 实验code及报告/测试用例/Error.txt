@@ -1,0 +1,7 @@
+int 1a;
+"abc\"
+char a='\';
+a=''';
+float b=123ef ;
+int c=0921;
+c=0xZa12;
