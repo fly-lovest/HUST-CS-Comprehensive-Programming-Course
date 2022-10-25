@@ -12,5 +12,5 @@
 
 如若你没有充足的时间，则希望能够认真阅读源码及其注释，弄清每个文件完成的功能，以及编译前端的工作流程。下图为编译的整个流程，在该实验中，你只需要完成前端工作中的词法分析和语法分析。该实验任务量还是比较重的，抓紧实验，冲！
 
-
+![编译流程图](https://raw.githubusercontent.com/fly-lovest/HUST-CS-Comprehensive-Programming-Course/main/images/%E7%BC%96%E8%AF%91%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
